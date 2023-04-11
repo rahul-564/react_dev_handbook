@@ -41,15 +41,14 @@ React is an open-source JavaScript library for building user interfaces. It is m
 -----------------------------------------------------------------------
 
 
-*   [ ] You used it in a project [:books:](https://codesandbox.io/s/github/kentcdodds/downshift-examples/tree/master/?module=%2Fsrc%2Fordered-examples%2F01-basic-autocomplete.js&moduleview=1)
+*   [ ] You used autocomplete in a project [:books:](https://codesandbox.io/s/github/kentcdodds/downshift-examples/tree/master/?module=%2Fsrc%2Fordered-examples%2F01-basic-autocomplete.js&moduleview=1)
 
 
-*   [ ] You used it in a project
 
 
-*   [ ] You used it in a project [:books:](https://www.npmjs.com/package/react-loading-skeleton) 
+*   [ ] You used react-loading-skeleton in a project [:books:](https://www.npmjs.com/package/react-loading-skeleton) 
 
 
-*   [ ] You used it in a project [:books:](https://react-dropzone.js.org/)
+*   [ ] You used react-dropzone in a project [:books:](https://react-dropzone.js.org/)
 
 * * *
